@@ -1,5 +1,5 @@
 # The-Coffee-Machine
-![image](https://github.com/Bravo-ZR/The-Coffee-Machine/assets/102037087/b278991b-b170-476f-ac67-1432f66771e6)
+![image](https://github.com/Bravo-ZR/The-Coffee-Machine/assets/102037087/e6d9465a-d2ab-46ed-8a41-a61a830f0c6f)
 
 A simulation of a real life coffee machine with some added features.
 
