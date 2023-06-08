@@ -82,7 +82,7 @@ while not exit_program:
 
             def coffee():
                 """Processes the selected coffee order."""
-                insert = int(input('Insert tk: '))
+                insert = int(input('Insert coins: '))
                 cost = item['cost']
                 time.sleep(2)
 
