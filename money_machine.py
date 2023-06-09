@@ -6,7 +6,6 @@ class MoneyMachine:
         Args:
             menu (dict): A dictionary containing the menu items and their details.
         """
-        self.profit = 0
         self.menu = menu
         self.drink = ''
 
